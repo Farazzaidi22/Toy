@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1526225200 source:f:\ics\sem 3\toy\cuddlytoys.cpp
+	<iostream>
+	"cuddlytoys.h"
+
+1526234558 f:\ics\sem 3\toy\cuddlytoys.h
+	<iostream>
+	<string>
+	<string.h>
+
+1526231443 source:f:\ics\sem 3\toy\main.cpp
+	<iostream>
+	"cuddlytoys.h"
+	"teddies.h"
+	"bunnies.h"
+	"driver.h"
+	"clown.h"
+	"manager.h"
+	"gardner.h"
+
+1526231443 source:f:\ics\sem 3\toy\teddies.cpp
+	<iostream>
+	"cuddlytoys.h"
+	"teddies.h"
+
+1526231443 f:\ics\sem 3\toy\teddies.h
+	<iostream>
+	"cuddlytoys.h"
+
+1526231443 source:f:\ics\sem 3\toy\bunnies.cpp
+	<iostream>
+	"cuddlytoys.h"
+	"bunnies.h"
+
+1526234558 f:\ics\sem 3\toy\bunnies.h
+	<iostream>
+	"cuddlytoys.h"
+
+1526231671 source:f:\ics\sem 3\toy\clown.cpp
+	<iostream>
+	"Clown.h"
+
+1526231732 f:\ics\sem 3\toy\clown.h
+	<iostream>
+	"teddies.h"
+
+1526235414 source:f:\ics\sem 3\toy\driver.cpp
+	<iostream>
+	"Driver.h"
+
+1526235408 f:\ics\sem 3\toy\driver.h
+	<iostream>
+	"teddies.h"
+
+1526231909 source:f:\ics\sem 3\toy\gardner.cpp
+	<iostream>
+	"Gardner.h"
+
+1526234683 f:\ics\sem 3\toy\gardner.h
+	<iostream>
+	"bunnies.h"
+	"cuddlytoys.h"
+
+1526234380 f:\ics\sem 3\toy\manager.h
+	<iostream>
+	"bunnies.h"
+
+1526234339 source:f:\ics\sem 3\toy\manager.cpp
+	<iostream>
+	"Manager.h"
+
