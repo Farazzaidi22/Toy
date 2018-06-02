@@ -3,6 +3,11 @@
 
 using namespace std;
 
+Clown::Clown(string s) : teddies(s)
+{
+
+}
+
 
 void Clown::cnoise()
 {

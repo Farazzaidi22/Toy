@@ -12,7 +12,7 @@ class Driver: public teddies
 {
     public:
         Driver(string);
-        void dshow();
+        void dnoise();
 };
 
 #endif // DRIVER_H

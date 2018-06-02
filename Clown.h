@@ -8,6 +8,7 @@ using namespace std;
 class Clown: public teddies
 {
     public:
+        Clown(string);
        void cnoise();
 };
 

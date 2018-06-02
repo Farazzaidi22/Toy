@@ -10,7 +10,7 @@ Driver::Driver(string s) : teddies(s)
 }
 
 
-void Driver::dshow()
+void Driver::dnoise()
 {
     teddies::noise();
     cout<<" and my color is Red and i am an engine driver";

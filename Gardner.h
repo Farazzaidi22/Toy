@@ -9,6 +9,7 @@ using namespace std;
 class Gardner: public bunnies
 {
     public:
+        Gardner(string);
         void gnoise();
 
     private:

@@ -3,6 +3,11 @@
 
 using namespace std;
 
+Manager::Manager(string s) : bunnies(s)
+{
+
+}
+
 
 void Manager::mnoise()
 {
