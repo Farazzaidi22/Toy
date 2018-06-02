@@ -32,8 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Clown.cpp" />
+		<Unit filename="Clown.h" />
+		<Unit filename="Driver.cpp" />
+		<Unit filename="Driver.h" />
+		<Unit filename="Gardner.cpp" />
+		<Unit filename="Gardner.h" />
+		<Unit filename="Manager.cpp" />
+		<Unit filename="Manager.h" />
 		<Unit filename="Teddies.cpp" />
 		<Unit filename="Teddies.h" />
+		<Unit filename="bunnies.cpp" />
+		<Unit filename="bunnies.h" />
 		<Unit filename="cuddlytoys.cpp" />
 		<Unit filename="cuddlytoys.h" />
 		<Unit filename="main.cpp" />

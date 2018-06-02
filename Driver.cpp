@@ -1,7 +1,13 @@
 #include <iostream>
+#include "cuddlytoys.h"
 #include "Driver.h"
 
 using namespace std;
+
+Driver::Driver(string s) : teddies(s)
+{
+
+}
 
 
 void Driver::dshow()
